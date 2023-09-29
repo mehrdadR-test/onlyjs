@@ -12,6 +12,4 @@ const getMe = (token) => {
    return user
 }
 
-function anotherFunc(){
-   return true
-}
+const someFunc = () => true
