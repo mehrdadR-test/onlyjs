@@ -13,3 +13,7 @@ const getMe = (token) => {
 }
 
 const someFunc = () => true
+
+const addCourse = (course) => {
+   return true
+}
